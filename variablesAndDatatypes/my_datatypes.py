@@ -1,8 +1,8 @@
 #
-# my_var = 500
+my_var = 500
 # print(my_var, "is type", type(my_var))
 #
-# my_var = 500.0
+my_var = 500.0
 # print(my_var, "is type", type(my_var))
 #
 # my_var = 1+2j
@@ -13,6 +13,7 @@
 # print(my_var, "is type", type(my_var))
 #
 my_var = [9,5,9,11,12,13]
+my_var = "sadfdsaf"
 # print(my_var, "is type", type(my_var))
 #
 # my_var[2] = 7
